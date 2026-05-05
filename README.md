@@ -55,3 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub-ExcalightX-000?style=for-the-badge&logo=github" />
   </a>
 </p>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ExcalightX/ExcalightX/gh-pages/snake.svg" />
+</p>
